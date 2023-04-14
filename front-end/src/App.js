@@ -1,11 +1,10 @@
 import './style.css';
+import { Navbar } from './components/Navbar.js';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <h1>Hi!</h1>
-    </div>
+    <>
+      <Navbar />
+    </>
   );
 }
-
-export default App;
