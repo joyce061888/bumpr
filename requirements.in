@@ -1,0 +1,8 @@
+# requirements.in
+flask
+firebase_admin
+geopy
+numpy
+heapq
+smtplib
+email
